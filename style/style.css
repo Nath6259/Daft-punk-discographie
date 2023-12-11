@@ -39,6 +39,7 @@ h1{
     background-size: contain;
     color: transparent;
 	background-clip: text;
+    --webkit-color: black;
     white-space: nowrap;
     overflow: hidden;
     animation: type 1s steps(15);
